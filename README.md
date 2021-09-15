@@ -39,12 +39,14 @@
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+<img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-<img align="left" width="26px"  src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Android.png?raw=true" />
+<img align="left" width="26px"  src="https://user-images.githubusercontent.com/71429125/133364368-b6c0f8da-0684-446f-9ecd-eec2996b35a5.png" />
+
 <!-- Enthusiast:Start -->
 
 <br /><br />
@@ -55,14 +57,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="LukaMel-B's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ashif-coder&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ashif-coder's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ashif-coder&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashif-coder" />
+<img align="left" alt="Ashif-coder" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashif-coder" />
 
 </details>
 
