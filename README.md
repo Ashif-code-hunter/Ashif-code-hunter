@@ -1,3 +1,4 @@
+
 ### Hi World! I am Ashif 🙌
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71429125/133354455-15843eca-d118-4736-a9f2-0c18172e7e8d.gif" width="450" height="320" />
@@ -17,8 +18,8 @@
 
 ## Ping me on :
 
-[<img align="left" width="22px"  src="https://user-images.githubusercontent.com/71429125/133356236-71b33573-8282-44ec-b97c-9dcb56210fb6.png" />][Instagram]
-[<img align="left" width="22px"  src="https://github.com/LukaMel-B/LukaMel-B/blob/main/Linkedin.png?raw=true" />][LinkedIn]
+[<img align="left" width="22px"  src="https://user-images.githubusercontent.com/71429125/133359405-9eddd24d-7893-4dd5-b717-7207a4c18caf.png" />][Instagram]
+[<img align="left" width="22px"  src="https://user-images.githubusercontent.com/71429125/133359455-73cd4dbf-3b1f-4e6e-9358-b1924a4178f3.png" />][LinkedIn]
 
 
 <br />
