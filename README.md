@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my startup
 - 🌱 I’m currently learning Full Stack Development
-- 🤔 I’m looking for help with new opportunities
+- 🤔 Looking for help with new opportunities
 - 🏫 Student @ MEASS on Gods own country🌴
 - 🪐 Enthusiastic learning from udemy
 - ⭐ IEDC (Kerala Startup mission program) CEO @ MEASS
