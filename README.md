@@ -11,7 +11,6 @@
 - 🤔 Looking for help with new opportunities
 - 🪐 Enthusiastic learning from Udemy
 - ⭐ IEDC (Kerala Startup mission program) ex-CEO @ MEASS
-- 🌍 https://ashif-coder.github.io/ 
 
 <br />
 
