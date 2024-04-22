@@ -4,15 +4,13 @@
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71429125/133354455-15843eca-d118-4736-a9f2-0c18172e7e8d.gif" width="450" height="320" />
 
 
-## I am a Programmer, Entrepreneur, Trader And Graphic Designer
+## I am a Programmer, Trader And Graphic Designer
 
-- 🔭 I’m currently working on my startup
+- 🔭 I’m currently working as a flutter developer
 - 🌱 I’m currently learning Full Stack Development
 - 🤔 Looking for help with new opportunities
-- 🏫 Student @ MEASS on Gods own country🌴
-- 🪐 Enthusiastic learning from udemy
-- ⭐ IEDC (Kerala Startup mission program) CEO @ MEASS
-- ⚡ Fun fact: Entrepreneurship bug bites me on childhood!!!
+- 🪐 Enthusiastic learning from Udemy
+- ⭐ IEDC (Kerala Startup mission program) ex-CEO @ MEASS
 - 🌍 https://ashif-coder.github.io/ 
 
 <br />
