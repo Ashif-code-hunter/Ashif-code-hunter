@@ -1,6 +1,5 @@
 ### Hi World! I am Ashif 🙌
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71429125/133354455-15843eca-d118-4736-a9f2-0c18172e7e8d.gif" width="420" height="290" />
 
 ## About Me
 
@@ -12,6 +11,8 @@
 - 🌟 Continuously learning and staying updated with the latest industry trends through platforms like Udemy
 - 💼 Former IEDC Lead @ MEASS
 - 🏆 Recognized as one of the Top 10 coders in Kerala by Huddle Global, muLearn and Kerala Startup Mission
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71429125/133354455-15843eca-d118-4736-a9f2-0c18172e7e8d.gif" width="420" height="290" />
 
 ## Connect with Me
 
