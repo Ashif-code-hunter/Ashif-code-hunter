@@ -2,7 +2,7 @@
 
 
 ## About Me
-
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71429125/133354455-15843eca-d118-4736-a9f2-0c18172e7e8d.gif" width="420" height="290" />
 - 🚀 Passionate Flutter developer with 3+ years of experience crafting high-performance, cross-platform mobile apps
 - 📊 Experienced trader leveraging technical analysis and market insights
 - 🎨 Creative graphic designer skilled in UI/UX design and visual storytelling
@@ -12,7 +12,6 @@
 - 💼 Former IEDC Lead @ MEASS
 - 🏆 Recognized as one of the Top 10 coders in Kerala by Huddle Global, muLearn and Kerala Startup Mission
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71429125/133354455-15843eca-d118-4736-a9f2-0c18172e7e8d.gif" width="420" height="290" />
 
 ## Connect with Me
 
