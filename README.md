@@ -6,11 +6,14 @@
 
 ## I am a Programmer, Trader And Graphic Designer
 
-- 🔭 I’m currently working as a flutter developer
-- 🌱 I’m currently learning Full Stack Development
-- 🤔 Looking for help with new opportunities
-- 🪐 Enthusiastic learning from Udemy
-- ⭐ IEDC (Kerala Startup mission program) ex-CEO @ MEASS
+- 🚀 Passionate Flutter developer with 3+ years of experience crafting high-performance, cross-platform mobile apps
+- 📊 Experienced trader leveraging technical analysis and market insights
+- 🎨 Creative graphic designer skilled in UI/UX design and visual storytelling
+- 🌱 Currently expanding skills in Full Stack Development to build end-to-end solutions
+- 🤝 Open to new opportunities and exciting projects
+- 🌟 Continuously learning and staying updated with the latest industry trends through platforms like Udemy
+- 💼 Former IEDC Leas @ MEASS
+- 🏆 Recognized as one of the Top 10 coders in Kerala by Huddle Global ,muLearn and Kerala Startup Mission
 
 <br />
 
