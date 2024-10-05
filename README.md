@@ -1,6 +1,6 @@
 ### Hi World! I am Ashif 🙌
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71429125/133354455-15843eca-d118-4736-a9f2-0c18172e7e8d.gif" width="450" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71429125/133354455-15843eca-d118-4736-a9f2-0c18172e7e8d.gif" width="420" height="290" />
 
 ## About Me
 
@@ -53,7 +53,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  <img align="left" alt="Ashif-coder" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashif-coder" />
+  <img align="left" alt="Ashif-code-hunter" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashif-code-hunter" />
 </details>
 
 [Instagram]: https://www.instagram.com/ashif_m.a/
