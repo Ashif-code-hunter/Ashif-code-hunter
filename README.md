@@ -1,6 +1,6 @@
 
 ### Hi World! I am Ashif 🙌
-
+<br />
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71429125/133354455-15843eca-d118-4736-a9f2-0c18172e7e8d.gif" width="450" height="320" />
 
 
